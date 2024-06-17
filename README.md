@@ -1,4 +1,4 @@
-# Qwik-Weather
+<img width="549" alt="Screenshot 2024-06-17 at 9 33 30 PM" src="https://github.com/yashovardhn/Qwik-Weather/assets/122148698/67179fae-d9fa-4755-9aba-b37e5bc2da7a"># Qwik-Weather
 There are a variety of weather iOS apps in App Store. Those apps have great features and
 functionalities to satisfy users. However, according to my research, only a few of them have
 friendly user interface and human centred interactions, which means that a lot of them might be
@@ -13,4 +13,7 @@ Besides, the iOS app will have friendly user interfaces and human centred intera
 can find the information they want in a short time and limited clicks. It is easy to be navigated
 than other weather iOS apps in the market.
 Development environment: Xcode
-Open Weather Map API documen
+Open Weather Map API document
+
+
+
