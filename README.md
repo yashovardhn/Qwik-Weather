@@ -44,7 +44,7 @@ Qwik-Weather is a simple weather application built using Swift. It fetches weath
 
 ## User Interface Flow
 
-![App Flow](./ui-flow.png)
+![App Flow](https://github.com/yashovardhn/Qwik-Weather/blob/main/APP_UI.png)
 
 ## Contributing
 
