@@ -1,19 +1,60 @@
 # Qwik-Weather
-There are a variety of weather iOS apps in App Store. Those apps have great features and
-functionalities to satisfy users. However, according to my research, only a few of them have
-friendly user interface and human centred interactions, which means that a lot of them might be
-difficult to be navigated even though they provide enough functionalities. It is not convenient
-for new users.
-Therefore, I would like to do improvements on weather iOS apps. The objectives include:
-The iOS app allows people to check out the weather in multiple cities worldwide. The weather
-data is dynamic, which means that users can see the weather anytime.
-The iOS app not only show the weather, temperature and humidity, but it also uses various
-icons to represent the weather accordingly. It will be easy to read and use.
-Besides, the iOS app will have friendly user interfaces and human centred interactions. Users
-can find the information they want in a short time and limited clicks. It is easy to be navigated
-than other weather iOS apps in the market.
 
-<img width="549" alt="Screenshot 2024-06-17 at 9 33 30 PM" src="https://github.com/yashovardhn/Qwik-Weather/assets/122148698/67179fae-d9fa-4755-9aba-b37e5bc2da7a">
+Qwik-Weather is a simple weather application built using Swift. It fetches weather data from an external API and displays it to the user. The application is designed to provide current weather information for any city.
 
+## Features
 
+- Get current weather information for any city
+- Display temperature, humidity, and weather description
+- Simple and intuitive user interface
+
+## Requirements
+
+- Xcode 12.x or later
+- iOS 14.0 or later
+
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yashovardhn/Qwik-Weather.git
+    ```
+
+2. Open the project in Xcode:
+
+    ```bash
+    cd Qwik-Weather
+    open Qwik-Weather.xcodeproj
+    ```
+
+3. Install dependencies using CocoaPods (if any):
+
+    ```bash
+    pod install
+    ```
+
+4. Build and run the project on your simulator or connected device.
+
+## Usage
+
+1. Launch the app on your iOS device or simulator.
+2. Enter the name of a city to get the current weather information.
+3. View the temperature, humidity, and weather description for the entered city.
+
+## User Interface Flow
+
+![App Flow](./path/to/image.png)
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For any questions or suggestions, please contact [yashovardhn](https://github.com/yashovardhn).
 
